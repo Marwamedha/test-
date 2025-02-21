@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marwa Medhat - Business Intelligence Developer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Marwa Medhat Said</h1>
+        <p>Business Intelligence Developer | Data Enthusiast</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Data enthusiast and Business Intelligence developer with a Master's in Data Science, blending technical prowess and creative insight for transformative projects in analytics.</p>
+    </section>
+    
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>Business Intelligence Developer, Crédit Agricole Bank (04/2024 – Present)</strong></li>
+            <li><strong>Business Intelligence Developer, Eva Group</strong></li>
+            <li><strong>Business Intelligence Developer, Digital Egypt Builders Initiative (DEBI)</strong></li>
+        </ul>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <p>Data Warehousing, ETL, Data Modeling, BI Tools (Power BI, Tableau, SSRS), Programming (SQL, Python), Cloud (AWS, Redshift).</p>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>Prediction Marketing Campaign Response (M.Sc. Graduation Project)</li>
+            <li>Data Visualization with Power BI</li>
+            <li>Sentiment Analysis for iPhone & Samsung</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:marwamedhat737@gmail.com">marwamedhat737@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/marwa-medhat-342899219" target="_blank">Marwa Medhat</a></p>
+        <p>GitHub: <a href="https://github.com/Marwamedha" target="_blank">Marwamedha</a></p>
+    </section>
+</body>
+</html>
